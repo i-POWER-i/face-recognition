@@ -21,9 +21,9 @@ pip install opencv-python numpy
 
 Download these required model files and place them in the same folder:
  
- • age_deploy.prototxt ( https://github.com/spmallick/learnopencv/raw/master/AgeGender/age_deploy.prototxt )
+ • age_deploy.prototxt ( wget https://raw.githubusercontent.com/spmallick/learnopencv/master/AgeGender/models/age_deploy.prototxt )
  
- • age_net.caffemodel ( https://github.com/spmallick/learnopencv/raw/master/AgeGender/age_net.caffemodel )
+ • age_net.caffemodel ( wget https://raw.githubusercontent.com/eveningglow/age-and-gender-classification/5b60d9f8a8608cdbbcdaaa39bf28f351e8d8553b/model/age_net.caffemodel )
 
 
 ## 🚀 Run
