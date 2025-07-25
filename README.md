@@ -26,13 +26,13 @@ Download these required model files and place them in the same folder:
  • age_net.caffemodel ( https://github.com/spmallick/learnopencv/raw/master/AgeGender/age_net.caffemodel )
 
 
-*🚀 Run*
+## 🚀 Run
 
-in cmd install pencv
+in cmd install opencv
 
 ```bash
 pip install opencv-python numpy
 ```
 Press ENTER to quit the application
-
+## save file📸
 All unique detected faces will be saved in the faces/ folder with timestamped filenames.
