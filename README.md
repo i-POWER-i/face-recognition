@@ -18,3 +18,11 @@ Install dependencies:
 
 ```bash
 pip install opencv-python numpy
+
+
+Download these required model files and place them in the same folder:
+ • age_deploy.prototxt (https://github.com/spmallick/learnopencv/raw/master/AgeGender/age_deploy.prototxt)
+ • age_net.caffemodel (https://github.com/spmallick/learnopencv/raw/master/AgeGender/age_net.caffemodel)
+
+
+***🚀 Run ***
