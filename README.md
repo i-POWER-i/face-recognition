@@ -16,8 +16,9 @@ This project uses OpenCV and a pretrained Caffe model to:
 
 Install dependencies:
 
+```bash
 pip install opencv-python numpy
-
+```
 
 Download these required model files and place them in the same folder:
  
@@ -28,11 +29,8 @@ Download these required model files and place them in the same folder:
 
 ## 🚀 Run
 
-in cmd install opencv
+Run python sen_unique_faces.py
 
-```bash
-pip install opencv-python numpy
-```
 Press ENTER to quit the application
 ## save file📸
 All unique detected faces will be saved in the faces/ folder with timestamped filenames.
